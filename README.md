@@ -7,6 +7,7 @@
   Basicamente o HTML foi utilizado para apresentação a maior parte foi feito em javascript, nessa etapa foi utilizado o elemento Canvas para desenhar uma tela onde o jogo se passará, com css foi feito centralizado a tela e criou-se uma borda.
  ## Javascript
   No javascript e utilizado recursividade para renderização, onde as imagens são retiradas sprites.png, sendo que as localizações de cada parte foram retirados indicados pelos objetos: 
+  
   qualquer{
     spritesX: ? ; -> Indica a parte horizontalmente da imagem que queira retirar. A conveção do nome é devido nome do arquivo (sprites.png)
     spritesY: ? ; -> Indica a parte verticalmente da imagem que queira retirar. A conveção do nome é devido nome do arquivo (sprites.png)
